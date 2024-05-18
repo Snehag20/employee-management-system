@@ -1,1 +1,2 @@
 # employee-management-system
+The Employee Management System is a console-based application developed in C++. This project is designed to efficiently manage employee data, providing functionalities for adding, displaying, searching, updating, and deleting employee records. The system ensures seamless data handling within an organization, showcasing the practical application of C++ programming skills.
